@@ -29,6 +29,8 @@ Don't remove these this uses the protocol that are need to function properly
  */
 	images: {
 
+		domains: ['media.licdn.com'],
+
 		remotePatterns: [
 			{
 				protocol: 'https',
