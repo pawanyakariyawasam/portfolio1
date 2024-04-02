@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const myName = () =>",
+		"end": "Hey there!, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Pawanya Kariyawasam.",
+		"usp": "UI/UX Designer & Graphic Designer ."
+	},
+
+	"paragraph": "Driven by a relentless pursuit of user-centric design and visual storytelling, I bring creativity, innovation, and precision to every project. With a solid foundation in both UI/UX design principles and graphic arts, I merge form and function to craft captivating digital experiences. ",
+
+	"buttons": {
+		"primary": {
+			"title": "My CV",
+			"url": "mailto:s.kariyawasampawanya@gmail.com",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/pawanya-kariyawasam-193984230/",
+			"leaveSite": "true"
+		}
+	}
+}
